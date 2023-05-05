@@ -6,7 +6,7 @@ First clone this repository or download via zip
 git clone https://github.com/Ericson-WebDeveloper/ClickApp.git
 ```
 
-First open in your code edito and open terminal and type and run this command to install the dependencies
+First open this in your code editor and open terminal then type and run this command to install the dependencies
 
 ```
 npm install
