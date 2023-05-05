@@ -13,8 +13,20 @@ npm install
 ```
 
 
-to run this application run this command
+to run this application in dev mode run this command
 
 ```
 npm run dev
+```
+
+to create build in this application run this command
+
+```
+npm run build
+```
+
+to run the build application run this command
+
+```
+npm run preview
 ```
